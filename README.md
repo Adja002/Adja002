@@ -1,6 +1,6 @@
 # Hey 💡🌱👩🏾‍💻
 
-- 📫 Reach me through my socials: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adja002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Adja002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gueyeadja__/)  
+- 📫 Reach me through my socials: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adja002)  [<img src='https://www.linkedin.com/in/adja-gueye-077ab9206/' alt='linkedin' height='40'>]  [<img src='(https://www.instagram.com/gueyeadja__/' alt='instagram' height='40'>])  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a bookworm and have a never-ending list of must-read novels! 📚🐛
 
