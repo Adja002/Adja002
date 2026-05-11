@@ -9,21 +9,16 @@
 Hi, I'm **Adja Nene Gueye**.
 
 ## 📬 Contact
-<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
-      <a href="mailto:angueye02@gmail.com">angueye02@gmail.com</a>
-    </span>
 
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="20" height="20" />
-      <a href="https://www.linkedin.com/in/adja-gueye-077ab9206/">LinkedIn</a>
-    </span>
+<br>
 
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
-      <a href="https://github.com/Adja002">GitHub</a>
-    </span>
-
+<div align="center">
+  <a href="angueye02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/adja-gueye-077ab9206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ## 🧠 Skills
