@@ -4,14 +4,16 @@
 
 <img src="https://github.com/Adja002/Adja002/blob/main/Image1" alt="Banner of a developer sitting in front of a desk">
 
-## 👋 About Me
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Adja+Nene+Gueye!;" />
+</h1>
 
-Hi, I'm **Adja Nene Gueye**.
+- 🌱 I’m currently learning **[Healthcare Information and Management Systems](https://www.taylorfrancis.com/books/edit/10.4324/9780429443862/cahims-review-guide-himss)**
+- 💬 Ask me about **python, Node.js, React...or anything [here](https://github.com/{Adja002}/{Adja002}/issues)**
 
 ## 📬 Contact
 
 <br>
-
 <div align="center">
   <a href="angueye02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -21,70 +23,25 @@ Hi, I'm **Adja Nene Gueye**.
   </a>
 </div>
 
-## 🧠 Skills
+## 🛠️ Languages and Tools
 
-### Languages
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,r,react,nodejs,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/r" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">R</span>
-</span>
+## ⚡️ Stats
 
-### Frontend
+<br>
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/react" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">React</span>
-</span>
-
-### Backend
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Node.js</span>
-</span>
-
-### DevOps & Tools
-
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Git</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">GitHub</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/gitlab" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">GitLab</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">AWS</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Azure</span>
-</span>
-
-📬 Let's Connect
-<div align="center">
-<a href="mailto:angueye02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/adja-gueye-077ab9206/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=adja002&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="adja002's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=adja002&theme=transparent&count_private=true&border_radius=10&locale=en" alt="adja002's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=adja002&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="adja002's Most Used Languages" />
 </div>
+
+<hr>
 
 <div align="center">
 <img src="https://github.com/Adja002/Adja002/blob/main/My%20octocat.png" width="160" alt="My Octocat"/>
