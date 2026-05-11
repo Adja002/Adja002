@@ -52,7 +52,7 @@
 <div align="center">
 <img src="https://github.com/Adja002/Adja002/blob/main/My%20octocat.png" width="160" alt="My Octocat"/>
 <br/>
-<sub>✨ <i>Discipline · Focus · Consistency · Success</i> ✨</sub>
+<sub>✨ <i> Discipline · Focus · Consistency · Success</i> ✨</sub>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Adja002&label=visitors&color=4A90D9&style=flat-square" alt="visitors"/>
 </div>
