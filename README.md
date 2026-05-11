@@ -75,13 +75,22 @@ Hi, I'm **Adja Nene Gueye**.
   <span style="font-size:11px;display:block;margin-top:4px;">Azure</span>
 </span>
 
-## 📊 GitHub Stats
+📬 Let's Connect
+<div align="center">
+<a href="mailto:angueye02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/adja-gueye-077ab9206/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adja002&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adja002&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adja002&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adja002&theme=flat)
+<div align="center">
+<img src="https://github.com/Adja002/Adja002/blob/main/octocat.png" width="160" alt="My Octocat"/>
+<br/>
+<sub>✨ <i>Discipline · Focus · Consistency · Success</i> ✨</sub>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Adja002&label=visitors&color=4A90D9&style=flat-square" alt="visitors"/>
+</div>
 
