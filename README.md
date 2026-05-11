@@ -43,6 +43,18 @@
 
 <hr>
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{Adja002}/{Adja002}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{Adja002}/{Adja002}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{Adja002}/{Adja002}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 <div align="center">
 <img src="https://github.com/Adja002/Adja002/blob/main/My%20octocat.png" width="160" alt="My Octocat"/>
 <br/>
