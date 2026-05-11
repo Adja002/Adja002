@@ -87,7 +87,7 @@ Hi, I'm **Adja Nene Gueye**.
 </div>
 
 <div align="center">
-<img src="https://github.com/Adja002/Adja002/blob/main/octocat.png" width="160" alt="My Octocat"/>
+<img src="https://github.com/Adja002/Adja002/blob/main/My%20octocat.png" width="160" alt="My Octocat"/>
 <br/>
 <sub>✨ <i>Discipline · Focus · Consistency · Success</i> ✨</sub>
 <br/><br/>
